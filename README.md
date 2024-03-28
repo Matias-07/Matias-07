@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning HTML ans Js
+- 🌱 I’m currently learning HTML ; Js and Css
 - 💬 Ask me about chess
 - 😄 Pronouns: he/him
 
